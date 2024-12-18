@@ -1,3 +1,4 @@
+package quest6;
 public class Wilder {
 
     // Attributs
